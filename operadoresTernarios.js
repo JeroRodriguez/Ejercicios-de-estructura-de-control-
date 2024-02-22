@@ -23,6 +23,6 @@ const contraseña = "1234";
 // Ejercicio 5
 let colorSemaforo = "amarillo";
     colorSemaforo == "verde" ? console.log(`El semaforo esta en ${colorSemaforo} puede seguir`) :
-    colorSemaforo == "rojo" ? console.log(`El semaforo esta en ${colorSemaforo} debe parar) : 
+    colorSemaforo == "rojo" ? console.log(`El semaforo esta en ${colorSemaforo} debe parar`) : 
     colorSemaforo == "amarillo" ? console.log("Aliste motores") :
-    console.log("muestra color ${colorSemaforo}, esta dañado);
+    console.log(`muestra color ${colorSemaforo}, esta dañado`); 
